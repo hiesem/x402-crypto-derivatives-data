@@ -7,3 +7,9 @@ coverage/
 *.key
 *.pem
 *.tgz
+__pycache__/
+*.egg-info/
+python/build/
+python/dist/
+.pytest_cache/
+.venv/
